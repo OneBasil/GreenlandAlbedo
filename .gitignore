@@ -1,0 +1,17 @@
+# 忽略非 notebook 文件
+*.pkl
+*.joblib
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.nc
+*.tif
+*.h5
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+.virtual_documents/
+oldCode/
+pic/
+saved_models_*/
